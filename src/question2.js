@@ -85,10 +85,10 @@ class Place {
     this.empty = true
   }
   in () {
-    this.empty = false
+    this.empty = true
   }
   out () {
-    this.empty = true
+    this.empty = false
   }
 }
 
