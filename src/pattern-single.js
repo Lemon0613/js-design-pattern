@@ -1,5 +1,4 @@
 // 单例模式
-
 class SingleObject {
   login () {
     console.log('login...')

@@ -1,3 +1,4 @@
+// 停车场问题
 
 // car
 class Car {
@@ -85,10 +86,10 @@ class Place {
     this.empty = true
   }
   in () {
-    this.empty = true
+    this.empty = false
   }
   out () {
-    this.empty = false
+    this.empty = true
   }
 }
 

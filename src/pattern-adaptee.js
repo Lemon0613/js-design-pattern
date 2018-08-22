@@ -1,3 +1,4 @@
+// 适配器模式
 class Adaptee {
   specificRequest () {
     return '德国标准插头'

@@ -1,3 +1,4 @@
+// 装饰器模式
 class Circle {
   draw () {
     console.log('draw a circle')
